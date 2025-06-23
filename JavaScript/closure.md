@@ -1,5 +1,7 @@
 ## JavaScript - 클로저(Closure)
 
+<br/>
+
 <p data-ke-size="size16">우선 클로저를 쉽게 설명하면, <b>함수가 자신이 탄생한 환경(스코프)을 기억하는</b> 것을 말합니다. 이로 인해 자신이 탄생한 외부 함수가 메모리에서 정리되어도 그 값을 기억하고 접근할 수 있습니다. 좀 더 깊이 있게 설명하면, 클로저는 <b>내부 함수의 코드와 렉시컬 환경을 함께 기억하는 함수 객체</b>를 말합니다. 이 정의에는 헷갈리는 개념들이 다수 포함되어 있기 때문에, 아래에 좀 더 쉽게 풀어서 설명해 보겠습니다.</p>
 <p data-ke-size="size16">&nbsp;</p>
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />

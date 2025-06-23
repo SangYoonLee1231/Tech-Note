@@ -34,7 +34,7 @@
 
 ### JavaScript & TypeScript
 
-- <a href="">클로저란?</a>
+- <a href="https://github.com/SangYoonLee1231/Tech-Note/blob/main/JavaScript/closure.md">클로저란?</a>
   <!-- - <a href="">이벤트 위임과 이벤트 전파 과정</a> -->
   <!-- - <a href="">이벤트 루프가 비동기 로직을 처리하는 과정</a> -->
   <!-- - <a href="">매크로 테스트 큐와 마이크로 테스트 큐</a> -->
