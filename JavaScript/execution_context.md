@@ -2,7 +2,6 @@
 
 <br/>
 
-<p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">실행 컨텍스트는 자바스크립트 소스 코드를 실행하기 위해 생성되는 환경입니다. 좀 더 구체적으로 말하면, 소스 코드가 실행되는데 필요한 환경을 제공하고 코드의 실행 결과를 관리하는 영역입니다. 실행 컨텍스트는 스코프 내의 식별자들을 등록 및 관리하고, 코드의 실행 흐름을 제어한다는 2가지 큰 역할을 수행합니다. 아래에서 실행 컨택스트의 구성 요소와 역할에 대해 더욱 자세히 설명하겠습니다.</p>
 <p data-ke-size="size16">&nbsp;</p>
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />
